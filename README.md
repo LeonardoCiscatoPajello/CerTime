@@ -1,8 +1,6 @@
 # CerTime
 
-![Flutter](https://img.shields.io/badge/Flutter-2b2d31?style=flat-square&logo=flutter&logoColor=02569B) ![Dart](https://img.shields.io/badge/Dart-2b2d31?style=flat-square&logo=dart&logoColor=0175C2)<br/>
-![SQLite](https://img.shields.io/badge/SQLite-2b2d31?style=flat-square&logo=sqlite&logoColor=07405E) ![Android](https://img.shields.io/badge/Android-2b2d31?style=flat-square&logo=android&logoColor=3DDC84)<br/>
-![Linux](https://img.shields.io/badge/Linux-2b2d31?style=flat-square&logo=linux&logoColor=FCC624) ![Material Design 3](https://img.shields.io/badge/Material_Design_3-2b2d31?style=flat-square&logo=materialdesign&logoColor=757575)
+![Flutter](https://img.shields.io/badge/Flutter-2b2d31?style=flat-square&logo=flutter&logoColor=02569B) ![Dart](https://img.shields.io/badge/Dart-2b2d31?style=flat-square&logo=dart&logoColor=0175C2) ![SQLite](https://img.shields.io/badge/SQLite-2b2d31?style=flat-square&logo=sqlite&logoColor=07405E) ![Android](https://img.shields.io/badge/Android-2b2d31?style=flat-square&logo=android&logoColor=3DDC84) ![Linux](https://img.shields.io/badge/Linux-2b2d31?style=flat-square&logo=linux&logoColor=FCC624) ![Material Design 3](https://img.shields.io/badge/Material_Design_3-2b2d31?style=flat-square&logo=materialdesign&logoColor=757575)
 
 Cross-platform training hours tracker and compliance tool built with Flutter, developed as a project for the _Progettazione Applicazioni Mobili_ university course.
 
