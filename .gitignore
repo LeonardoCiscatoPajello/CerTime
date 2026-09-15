@@ -1,0 +1,8 @@
+*.hprof
+build/
+.gradle/
+*.apk
+*.aab
+android/.gradle/
+android/app/release/
+certi_time/devtools_options.yaml
